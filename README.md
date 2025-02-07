@@ -1,1 +1,2 @@
 # Java-Programming-Assignment
+The project idea that I have chosen is the calculator app. While it can do the simple things (add, multiply, divide, subtract) I would like to add algebra to the calculator as well. For example, the calculator would able to find that x=3 from 2x+5=11 if it was inputted into the calculator. Another example would be 3x*4y=72 and the calculator would be able to find x=3 and y=2.
